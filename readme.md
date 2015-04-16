@@ -62,7 +62,7 @@ The validator will provide a list of warnings and errors. It's okay if your webs
 ## How to hand-in/submit the assignments.
 When finished, submit your website with a git [pull request](https://help.github.com/articles/using-pull-requests). Here are step by step instructions of how to do this:
 
-1. Make sure you are in the root directory.
+1. Make sure you are in the root directory of the repository.
 1. Add your changes to the repository: `git add -A`
 1. Commit your changes: `git commit -m "My solutions to precourse work"`
 1. Push your changes to your fork: `git push origin master`
