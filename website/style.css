@@ -1,0 +1,15 @@
+* { box-sizing: border-box; }
+
+body {
+  background-image: url('images/confectionary.png')
+}
+
+.avatar {
+  height: 80px;
+  border-radius: 50%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 900px;
+}
